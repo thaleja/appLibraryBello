@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84551160808",
+    "project_id": "prjlibrary-5d688",
+    "storage_bucket": "prjlibrary-5d688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84551160808:android:6b8dc7f922ee05c8948a5d",
+        "android_client_info": {
+          "package_name": "com.example.applibraryfbello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkyD_-NPYV4rYJBrjRoiw1KSvcNnDuUws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
